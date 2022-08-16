@@ -5,4 +5,4 @@ Includes:
 - Less Compiler
 
 ## Changing git repo:
-run: git remote set-url origin <url here>
+run: git remote set-url origin (url here)
